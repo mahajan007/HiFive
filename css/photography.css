@@ -1,0 +1,170 @@
+.version.photography /* version checker */
+{
+	color: #0000E3;
+	background-color: #03569B;
+}
+
+.html
+{
+	background: #000000 url("../images/photography-camera-full-hd-pics-wallpapers.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u855
+{
+	z-index: 2;
+	width: 1360px;
+	height: 1062px;
+	position: relative;
+	margin-right: -10000px;
+	left: -200px;
+}
+
+.ie #u855
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#buttonu1220
+{
+	z-index: 3;
+	width: 188px;
+	border-color: #787878;
+	background-color: #4C7314;
+	border-radius: 10px;
+	padding-bottom: 11px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 518px;
+	left: 738px;
+}
+
+#buttonu1220:hover
+{
+	background-color: #545454;
+	width: 188px;
+	min-height: 0px;
+	margin: 518px -10000px 0px 0px;
+}
+
+#u1221-4
+{
+	z-index: 4;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #1E0500;
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 26px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 60px;
+}
+
+#buttonu1220:hover #u1221-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#buttonu1220:hover #u1221-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1222
+{
+	z-index: 8;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1220:hover #u1222
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1220.ButtonSelected #u1222
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#u1523-29
+{
+	z-index: 9;
+	width: 1021px;
+	min-height: 510px;
+	border-style: none;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+}
+
+#u1523-2,#u1523-3,#u1523-4,#u1523-8,#u1523-9,#u1523-13,#u1523-14,#u1523-18,#u1523-19,#u1523-23,#u1523-24
+{
+	color: #9E005D;
+	font-weight: bold;
+}
+
+#u1523-5,#u1523-10,#u1523-15,#u1523-20,#u1523-25
+{
+	font-weight: bold;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

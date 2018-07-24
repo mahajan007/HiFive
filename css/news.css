@@ -1,0 +1,277 @@
+.version.news /* version checker */
+{
+	color: #0000E5;
+	background-color: #5B8455;
+}
+
+.html
+{
+	background: #000000 url("../images/news-newspapers-ss-1920.jpg") no-repeat left top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.55px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -7px;
+	padding-bottom: 117px;
+	width: 0.01px;
+}
+
+#u1509-5
+{
+	z-index: 20;
+	display: block;
+	vertical-align: top;
+	left: -69px;
+	position: relative;
+}
+
+#buttonu1253
+{
+	z-index: 2;
+	width: 231px;
+	border-color: #787878;
+	background-color: #828282;
+	border-radius: 10px;
+	padding-bottom: 11px;
+	margin-left: 333px;
+	margin-top: 60px;
+	position: relative;
+}
+
+#buttonu1253:hover
+{
+	background-color: #545454;
+	width: 231px;
+	min-height: 0px;
+	margin: 60px 0px 0px 333px;
+}
+
+#u1254-4
+{
+	z-index: 3;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #EDEDFF;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 19px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 67px;
+}
+
+#u1255
+{
+	z-index: 7;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1253:hover #u1255
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1256
+{
+	z-index: 8;
+	width: 239px;
+	border-color: #787878;
+	background-color: #828282;
+	border-radius: 10px;
+	padding-bottom: 8px;
+	margin-left: 338px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#buttonu1256:hover
+{
+	background-color: #545454;
+	width: 239px;
+	min-height: 0px;
+	margin: 27px 0px 0px 338px;
+}
+
+#u1257-4
+{
+	z-index: 9;
+	width: 164px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #EDEDFF;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 19px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 67px;
+}
+
+#buttonu1256:hover #u1257-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 164px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#u1258
+{
+	z-index: 13;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1256:hover #u1258
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1260
+{
+	z-index: 14;
+	width: 231px;
+	border-color: #787878;
+	background-color: #828282;
+	border-radius: 10px;
+	padding-bottom: 11px;
+	margin-left: 342px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#buttonu1260:hover
+{
+	background-color: #545454;
+	width: 231px;
+	min-height: 0px;
+	margin: 36px 0px 0px 342px;
+}
+
+#u1261-4
+{
+	z-index: 15;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #EDEDFF;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 19px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 67px;
+}
+
+#buttonu1253:hover #u1254-4,#buttonu1260:hover #u1261-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#buttonu1253:hover #u1254-4 p,#buttonu1256:hover #u1257-4 p,#buttonu1260:hover #u1261-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1262
+{
+	z-index: 19;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1260:hover #u1262
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1253.ButtonSelected #u1255,#buttonu1256.ButtonSelected #u1258,#buttonu1260.ButtonSelected #u1262
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,163 @@
+.version.bollywood /* version checker */
+{
+	color: #0000ED;
+	background-color: #380DF1;
+}
+
+.html
+{
+	background: #000000 url("../images/7-directors-chair-covers.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	border-radius: 0px 1px 1px 1px ;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 44px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1094-31
+{
+	z-index: 2;
+	width: 508px;
+	min-height: 361px;
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	left: -78px;
+	position: relative;
+}
+
+#u1094
+{
+	line-height: 22px;
+}
+
+#u1094-3,#u1094-8,#u1094-13,#u1094-18,#u1094-23,#u1094-28
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1094-2,#u1094-5,#u1094-6,#u1094-10,#u1094-11,#u1094-15,#u1094-16,#u1094-20,#u1094-21,#u1094-25,#u1094-26
+{
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 29px;
+}
+
+#buttonu1275
+{
+	z-index: 33;
+	width: 206px;
+	border-color: #787878;
+	background-color: #010200;
+	border-radius: 10px;
+	padding-bottom: 4px;
+	left: -70px;
+	position: relative;
+}
+
+#buttonu1275:hover
+{
+	background-color: #545454;
+	width: 206px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1277-4
+{
+	z-index: 34;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 19px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 51px;
+}
+
+#buttonu1275:hover #u1277-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 16px -10000px 0px 0px;
+}
+
+#buttonu1275:hover #u1277-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1276
+{
+	z-index: 38;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1275:hover #u1276
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1275.ButtonSelected #u1276
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,150 @@
+.version.e_commerce /* version checker */
+{
+	color: #000003;
+	background-color: #DDC541;
+}
+
+.html
+{
+	background: #000000 url("../images/free-bootstrap-ecommerce-templates.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 5px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1527-29
+{
+	z-index: 8;
+	width: 991px;
+	min-height: 434px;
+	border-style: none;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	left: -9px;
+	position: relative;
+}
+
+#u1527-2,#u1527-3,#u1527-4,#u1527-5,#u1527-8,#u1527-9,#u1527-10,#u1527-13,#u1527-14,#u1527-15,#u1527-18,#u1527-19,#u1527-20,#u1527-23,#u1527-24,#u1527-25
+{
+	font-weight: bold;
+}
+
+#buttonu1232
+{
+	z-index: 2;
+	width: 188px;
+	border-color: #787878;
+	background-color: #76B2C4;
+	border-radius: 10px;
+	padding-bottom: 11px;
+	margin-left: 861px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#buttonu1232:hover
+{
+	background-color: #545454;
+	width: 188px;
+	min-height: 0px;
+	margin: 28px 0px 0px 861px;
+}
+
+#u1233-4
+{
+	z-index: 3;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #1E0500;
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 26px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 60px;
+}
+
+#buttonu1232:hover #u1233-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#buttonu1232:hover #u1233-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1234
+{
+	z-index: 7;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1232:hover #u1234
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1232.ButtonSelected #u1234
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

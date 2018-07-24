@@ -1,0 +1,161 @@
+.version.poetry /* version checker */
+{
+	color: #0000FD;
+	background-color: #AB102B;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/download.jpg") repeat-x left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 232px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1111
+{
+	z-index: 2;
+	width: 920px;
+	background-color: #F7931E;
+	padding-bottom: 82px;
+	left: -16px;
+	position: relative;
+}
+
+#u1113-24
+{
+	z-index: 3;
+	width: 849px;
+	min-height: 289px;
+	border-style: none;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 30px;
+}
+
+#u1113-2,#u1113-3,#u1113-4,#u1113-7,#u1113-8,#u1113-11,#u1113-12,#u1113-15,#u1113-16,#u1113-19,#u1113-20
+{
+	font-weight: bold;
+}
+
+#buttonu1226
+{
+	z-index: 27;
+	width: 179px;
+	border-color: #787878;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding-bottom: 7px;
+	margin-left: 815px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#buttonu1226:hover
+{
+	background-color: #545454;
+	width: 179px;
+	min-height: 0px;
+	margin: 31px 0px 0px 815px;
+}
+
+#u1227-4
+{
+	z-index: 28;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #1E0500;
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 26px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 60px;
+}
+
+#buttonu1226:hover #u1227-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#buttonu1226:hover #u1227-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1228
+{
+	z-index: 32;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1226:hover #u1228
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1226.ButtonSelected #u1228
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

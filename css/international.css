@@ -1,0 +1,171 @@
+.version.international /* version checker */
+{
+	color: #00000D;
+	background-color: #8B1851;
+}
+
+.html
+{
+	background: #000000 url("../images/hd-technology-wallpaper-6.jpg") no-repeat left top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -11px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1512-33
+{
+	z-index: 8;
+	width: 770px;
+	min-height: 405px;
+	border-style: none;
+	background-color: #000000;
+	line-height: 29px;
+	font-size: 24px;
+	margin-left: 95px;
+	position: relative;
+}
+
+#u1512-5
+{
+	font-weight: bold;
+}
+
+#u1512-13
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u1534-5
+{
+	z-index: 26;
+	width: 200px;
+	min-height: 32px;
+	border-style: none;
+	background-color: transparent;
+}
+
+#u1512-2,#u1512-3,#u1512-4,#u1512-8,#u1512-12,#u1512-16,#u1512-20,#u1512-21,#u1512-25,#u1512-26,#u1512-30,#u1512-31
+{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#buttonu1214
+{
+	z-index: 2;
+	width: 231px;
+	border-color: #787878;
+	background-color: #161C22;
+	border-radius: 10px;
+	padding-bottom: 13px;
+	margin-left: 674px;
+	margin-top: 141px;
+	position: relative;
+}
+
+#buttonu1214:hover
+{
+	background-color: #545454;
+	width: 231px;
+	min-height: 0px;
+	margin: 141px 0px 0px 674px;
+}
+
+#u1215-4
+{
+	z-index: 3;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #FFF2FE;
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 26px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 60px;
+}
+
+#buttonu1214:hover #u1215-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#buttonu1214:hover #u1215-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1216
+{
+	z-index: 7;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1214:hover #u1216
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1214.ButtonSelected #u1216
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

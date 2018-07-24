@@ -1,0 +1,170 @@
+.version.food /* version checker */
+{
+	color: #00000B;
+	background-color: #9159C8;
+}
+
+.html
+{
+	background: #000000 url("../images/food-wallpaper-24.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 28px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1516
+{
+	z-index: 8;
+	width: 783px;
+	background-color: transparent;
+	margin-left: 18px;
+	position: relative;
+}
+
+#u1520-29
+{
+	z-index: 9;
+	width: 865px;
+	min-height: 417px;
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	margin-bottom: -67px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: 11px;
+}
+
+#u1520-2,#u1520-3,#u1520-4,#u1520-8,#u1520-9,#u1520-13,#u1520-14,#u1520-18,#u1520-19,#u1520-23,#u1520-24
+{
+	color: #C1272D;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u1520-5,#u1520-10,#u1520-15,#u1520-20,#u1520-25
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#buttonu1217
+{
+	z-index: 2;
+	width: 188px;
+	border-color: #787878;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding-bottom: 11px;
+	left: -65px;
+	margin-top: 157px;
+	position: relative;
+}
+
+#buttonu1217:hover
+{
+	background-color: #545454;
+	width: 188px;
+	min-height: 0px;
+	margin: 157px 0px 0px;
+}
+
+#u1218-4
+{
+	z-index: 3;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #1E0500;
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 26px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 60px;
+}
+
+#buttonu1217:hover #u1218-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#buttonu1217:hover #u1218-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1219
+{
+	z-index: 7;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1217:hover #u1219
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1217.ButtonSelected #u1219
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

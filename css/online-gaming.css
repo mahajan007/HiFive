@@ -1,0 +1,160 @@
+.version.online_gaming /* version checker */
+{
+	color: #000018;
+	background-color: #835832;
+}
+
+.html
+{
+	background: #000000 url("../images/40102.jpg") no-repeat left top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.54999999999995px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -17px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1529-4
+{
+	z-index: 8;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1531-29
+{
+	z-index: 12;
+	width: 985px;
+	min-height: 294px;
+	border-style: none;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-left: 16px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u1531-2,#u1531-3,#u1531-4,#u1531-5,#u1531-8,#u1531-9,#u1531-10,#u1531-13,#u1531-14,#u1531-15,#u1531-18,#u1531-19,#u1531-20,#u1531-23,#u1531-24,#u1531-25
+{
+	font-weight: bold;
+}
+
+#buttonu1250
+{
+	z-index: 2;
+	width: 231px;
+	border-color: #787878;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	margin-left: 42px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#buttonu1250:hover
+{
+	background-color: #545454;
+	width: 231px;
+	min-height: 0px;
+	margin: 26px 0px 0px 42px;
+}
+
+#u1251-4
+{
+	z-index: 3;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #000000;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 19px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 63px;
+}
+
+#buttonu1250:hover #u1251-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1250:hover #u1251-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1252
+{
+	z-index: 7;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1250:hover #u1252
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1250.ButtonSelected #u1252
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

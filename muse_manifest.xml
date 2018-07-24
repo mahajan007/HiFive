@@ -1,0 +1,128 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dania.com" resolutions="1x" timestamp="1465960119970">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="contact-us.css" crc="4032113030" ref="contact-us"/>
+    <file name="food.css" crc="194075080" ref="food"/>
+    <file name="national.css" crc="4115097865" ref="national"/>
+    <file name="news.css" crc="3847980117" ref="news"/>
+    <file name="about-website.css" crc="3812243111" ref="about-website"/>
+    <file name="hollywood.css" crc="186622425" ref="hollywood"/>
+    <file name="international.css" crc="227219537" ref="international"/>
+    <file name="entertainment.css" crc="4144972399" ref="entertainment"/>
+    <file name="poetry.css" crc="4255846443" ref="poetry"/>
+    <file name="index.css" crc="3840784593" ref="index"/>
+    <file name="online-gaming.css" crc="411260978" ref="online-gaming"/>
+    <file name="travel.css" crc="276418337" ref="travel"/>
+    <file name="e-commerce.css" crc="64865601" ref="e-commerce"/>
+    <file name="photography.css" crc="3808646811" ref="photography"/>
+    <file name="blogs.css" crc="4186360709" ref="blogs"/>
+    <file name="feedback.css" crc="50394416" ref="feedback"/>
+    <file name="bollywood.css" crc="3979873777" ref="bollywood"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index:entertainment:news:blogs:e-commerce:online-gaming:about-website:national:food:photography:travel:poetry:international:hollywood:contact-us:feedback:bollywood"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index:entertainment:news:blogs:e-commerce:online-gaming:about-website:national:food:photography:travel:poetry:international:hollywood:contact-us:feedback:bollywood"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:tablet>index:index:entertainment:news:blogs:e-commerce:online-gaming:about-website:national:food:photography:travel:poetry:international:hollywood:contact-us:feedback:bollywood"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:entertainment:news:blogs:e-commerce:online-gaming:food:travel:international:hollywood:contact-us:photography:feedback:bollywood"/>
+    <file name="webpro.js" crc="3803554875" ref="about-website:contact-us:feedback"/>
+    <file name="form_check.php" crc="277267350" ref="feedback"/>
+    <file name="form_throttle.php" crc="3908387251" ref="feedback"/>
+    <file name="form_process.php" crc="24249335" ref="feedback"/>
+    <file name="pie.js" crc="3827607177" ref="entertainment:news:blogs:e-commerce:online-gaming:about-website:national:food:photography:travel:poetry:international:hollywood:contact-us:feedback:bollywood"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="about-website:contact-us"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="about-website:contact-us"/>
+    <file name="touchswipe.js" crc="4038331989" ref="about-website:contact-us"/>
+    <file name="form-u1399.php" crc="3978152913" ref="feedback"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="3783961257" ref="feedback"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="feedback"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="feedback"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="feedback"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="feedback"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="feedback"/>
+    <file name="popcorn-slate1.jpg" crc="161287106" ref="entertainment"/>
+    <file name="news-newspapers-ss-1920.jpg" crc="3769861440" ref="news"/>
+    <file name="free-blog-backgrounds-for---m-ibackgroundzcom.jpg" crc="3935541783" ref="blogs"/>
+    <file name="40102.jpg" crc="204659236" ref="online-gaming"/>
+    <file name="food-wallpaper-24.jpg" crc="4123486378" ref="food"/>
+    <file name="photography-camera-full-hd-pics-wallpapers.jpg" crc="3760243463" ref="photography"/>
+    <file name="dressyourtech-cieradesign-1.jpg" crc="4139234617" ref="travel"/>
+    <file name="hd-technology-wallpaper-6.jpg" crc="130955271" ref="international"/>
+    <file name="hollywood-wallpaper-8.jpg" crc="533745885" ref="hollywood"/>
+    <file name="u1300_states.png" crc="4257186769" ref="index"/>
+    <file name="u1300_states-r.png" crc="4249126100" ref="index"/>
+    <file name="u1301_states.png" crc="3959982030" ref="index"/>
+    <file name="u1301_states-r.png" crc="3833666459" ref="index"/>
+    <file name="u1302_states.png" crc="3866457177" ref="index"/>
+    <file name="u1302_states-r.png" crc="277693127" ref="index"/>
+    <file name="u1303_states.png" crc="4019654198" ref="index"/>
+    <file name="u1303_states-r.png" crc="267306139" ref="index"/>
+    <file name="u1304_states.png" crc="4205038601" ref="index"/>
+    <file name="u1304_states-r.png" crc="29978599" ref="index"/>
+    <file name="u1305_states.png" crc="32335371" ref="index"/>
+    <file name="u1305_states-r.png" crc="3951858998" ref="index"/>
+    <file name="u1306_states.png" crc="432215951" ref="index"/>
+    <file name="u1306_states-r.png" crc="183090823" ref="index"/>
+    <file name="u1024-5.png" crc="96413049" ref="entertainment"/>
+    <file name="free-bootstrap-ecommerce-templates.jpg" crc="437198318" ref="e-commerce"/>
+    <file name="website-development.png" crc="4175163114" ref="about-website"/>
+    <file name="u894-4.png" crc="3785175788" ref="about-website"/>
+    <file name="u954-5.png" crc="479454289" ref="about-website"/>
+    <file name="u955-13.png" crc="4050174631" ref="about-website"/>
+    <file name="u956-9.png" crc="22759002" ref="about-website"/>
+    <file name="transparent logo.png" crc="4290360178" ref="national"/>
+    <file name="download.jpg" crc="28504395" ref="poetry"/>
+    <file name="contact_us_banner1.jpg" crc="4147106662" ref="contact-us"/>
+    <file name="u962-10.png" crc="382876707" ref="contact-us"/>
+    <file name="capture.jpg" crc="3875073967" seo="true" ref="contact-us"/>
+    <file name="u1009-7.png" crc="260229404" ref="contact-us"/>
+    <file name="u1016-7.png" crc="4010786919" ref="contact-us"/>
+    <file name="u1386-4.png" crc="3883280749" ref="index"/>
+    <file name="the_hexican_wave___black_by_chaninja.jpg" crc="4088316224" ref="index"/>
+    <file name="u1487_states.png" crc="3972735566" ref="index"/>
+    <file name="u1487_states-r.png" crc="4225348222" ref="index"/>
+    <file name="dic51ps.jpg" crc="4035057348" ref="feedback"/>
+    <file name="u1476-4.png" crc="509688220" ref="feedback"/>
+    <file name="u1430-17.png" crc="226421385" ref="feedback"/>
+    <file name="u1430-17-r.png" crc="300243551" ref="feedback"/>
+    <file name="u1430-17-m.png" crc="269585712" ref="feedback"/>
+    <file name="u1430-17-fs.png" crc="4101111205" ref="feedback"/>
+    <file name="u1509-5.png" crc="13477463" ref="news"/>
+    <file name="u1514-4.png" crc="4255953440" ref="blogs"/>
+    <file name="u1529-4.png" crc="90824111" ref="online-gaming"/>
+    <file name="7-directors-chair-covers.jpg" crc="242679823" ref="bollywood"/>
+    <file name="img-20160615-wa0000.jpg" crc="297083991" seo="true" ref="contact-us"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3867806680" seo="true" mt="1463312547237" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="144527431" seo="true" mt="1463312546888" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4253961342" seo="true" mt="1464418966701" redirect="true"/>
+  <file name="entertainment.html" crc="122846743" seo="true" mt="1465960071279" redirect="true"/>
+  <file name="news.html" crc="4283040134" seo="true" mt="1465924800907" redirect="true"/>
+  <file name="blogs.html" crc="488265564" seo="true" mt="1465925398317" redirect="true"/>
+  <file name="e-commerce.html" crc="4048324186" seo="true" mt="1465934811535" redirect="true"/>
+  <file name="online-gaming.html" crc="4070677858" seo="true" mt="1465934879026" redirect="true"/>
+  <file name="about-website.html" crc="4050697821" seo="true" mt="1464382043031" redirect="true"/>
+  <file name="national.html" crc="4068832811" seo="true" mt="1465929367862" redirect="true"/>
+  <file name="food.html" crc="138035423" seo="true" mt="1465930971190" redirect="true"/>
+  <file name="photography.html" crc="4115361479" seo="true" mt="1465932298934" redirect="true"/>
+  <file name="travel.html" crc="525358560" seo="true" mt="1465932952924" redirect="true"/>
+  <file name="poetry.html" crc="2375397" seo="true" mt="1465934771867" redirect="true"/>
+  <file name="international.html" crc="3789528870" seo="true" mt="1465930190949" redirect="true"/>
+  <file name="hollywood.html" crc="393646983" seo="true" mt="1465934965619" redirect="true"/>
+  <file name="contact-us.html" crc="251024870" seo="true" mt="1465960071529" redirect="true"/>
+  <file name="feedback.html" crc="4064153073" seo="true" mt="1464419288662" redirect="true"/>
+  <file name="bollywood.html" crc="4041702039" seo="true" mt="1465931594495" redirect="true"/>
+</manifest>

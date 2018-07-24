@@ -1,0 +1,159 @@
+.version.national /* version checker */
+{
+	color: #0000F5;
+	background-color: #476909;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/transparent%20logo.png") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1103
+{
+	z-index: 2;
+	width: 924px;
+	background-color: #29ABE2;
+	padding-bottom: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 59px;
+}
+
+#u1104-29
+{
+	z-index: 3;
+	width: 860px;
+	min-height: 338px;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 30px;
+}
+
+#u1104,#u1104-4,#u1104-9,#u1104-14,#u1104-19,#u1104-24
+{
+	font-weight: bold;
+}
+
+#buttonu1211
+{
+	z-index: 32;
+	width: 231px;
+	border-color: #787878;
+	background-color: #2E3192;
+	border-radius: 10px;
+	padding-bottom: 13px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 384px;
+	left: 719px;
+}
+
+#buttonu1211:hover
+{
+	background-color: #545454;
+	width: 231px;
+	min-height: 0px;
+	margin: 384px -10000px 0px 0px;
+}
+
+#u1213-4
+{
+	z-index: 33;
+	width: 119px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #1E0500;
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 26px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 60px;
+}
+
+#buttonu1211:hover #u1213-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 119px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#buttonu1211:hover #u1213-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1212
+{
+	z-index: 37;
+	width: 18px;
+	height: 17px;
+	border-color: #000000;
+	background-color: #545454;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 51px;
+}
+
+#buttonu1211:hover #u1212
+{
+	background-color: #FFFFFF;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+#buttonu1211.ButtonSelected #u1212
+{
+	background-color: #545454;
+	width: 18px;
+	height: 17px;
+	min-height: 0px;
+	margin: 17px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,335 @@
+.version.index /* version checker */
+{
+	color: #0000E4;
+	background-color: #EDB8D1;
+}
+
+.html
+{
+	background: #000000 url("../images/the_hexican_wave___black_by_chaninja.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.99999999999864px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page::before
+{
+	box-shadow: none;
+	top: 61px;
+	bottom: 46px;
+	width: 960px;
+}
+
+#page_position_content
+{
+	margin-top: -153px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u571-3
+{
+	z-index: 6;
+	width: 5px;
+	background-color: transparent;
+	margin-left: 495px;
+	position: relative;
+}
+
+#pu501-3
+{
+	width: 0.01px;
+	margin-left: 33px;
+	margin-top: 42px;
+}
+
+#u501-3
+{
+	z-index: 3;
+	width: 12px;
+	min-height: 6px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 94px;
+	left: 56px;
+}
+
+#u741-3
+{
+	z-index: 15;
+	width: 264px;
+	min-height: 44px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 144px;
+}
+
+#u1386-4
+{
+	z-index: 39;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 186px;
+}
+
+#pu843
+{
+	width: 0.01px;
+	margin-left: -276px;
+	margin-top: -4px;
+}
+
+#u843
+{
+	z-index: 2;
+	width: 1156px;
+	height: 1147px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 94px;
+}
+
+.ie #u843
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u590-3
+{
+	z-index: 9;
+	width: 103px;
+	min-height: 2px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1301
+{
+	z-index: 19;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 92px;
+	left: 639px;
+}
+
+#u1301_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1301_states.png") no-repeat 0px 0px;
+}
+
+#u1301:hover #u1301_states
+{
+	background: url("../images/u1301_states-r.png") no-repeat 0px 0px;
+}
+
+#u1302
+{
+	z-index: 22;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 157px;
+	left: 639px;
+}
+
+#u1302_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1302_states.png") no-repeat 0px 0px;
+}
+
+#u1302:hover #u1302_states
+{
+	background: url("../images/u1302_states-r.png") no-repeat 0px 0px;
+}
+
+#u1303
+{
+	z-index: 25;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 221px;
+	left: 639px;
+}
+
+#u1303_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1303_states.png") no-repeat 0px 0px;
+}
+
+#u1303:hover #u1303_states
+{
+	background: url("../images/u1303_states-r.png") no-repeat 0px 0px;
+}
+
+#u1304
+{
+	z-index: 28;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 286px;
+	left: 639px;
+}
+
+#u1304_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1304_states.png") no-repeat 0px 0px;
+}
+
+#u1304:hover #u1304_states
+{
+	background: url("../images/u1304_states-r.png") no-repeat 0px 0px;
+}
+
+#u1305
+{
+	z-index: 31;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 350px;
+	left: 639px;
+}
+
+#u1305_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1305_states.png") no-repeat 0px 0px;
+}
+
+#u1305:hover #u1305_states
+{
+	background: url("../images/u1305_states-r.png") no-repeat 0px 0px;
+}
+
+#u1300
+{
+	z-index: 34;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 639px;
+}
+
+#u1300_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1300_states.png") no-repeat 0px 0px;
+}
+
+#u1300:hover #u1300_states
+{
+	background: url("../images/u1300_states-r.png") no-repeat 0px 0px;
+}
+
+#u1306
+{
+	z-index: 37;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 414px;
+	left: 639px;
+}
+
+#u1306_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1306_states.png") no-repeat 0px 0px;
+}
+
+#u1306:hover #u1306_states
+{
+	background: url("../images/u1306_states-r.png") no-repeat 0px 0px;
+}
+
+#u1487
+{
+	z-index: 44;
+	position: relative;
+	width: 170px;
+	margin-right: -10000px;
+	margin-top: 478px;
+	left: 639px;
+}
+
+#u1487_states
+{
+	height: 41px;
+	width: 170px;
+	vertical-align: top;
+	background: url("../images/u1487_states.png") no-repeat 0px 0px;
+}
+
+#u1487:hover #u1487_states
+{
+	background: url("../images/u1487_states-r.png") no-repeat 0px 0px;
+}
+
+#u631-3
+{
+	z-index: 12;
+	width: 20px;
+	min-height: 21px;
+	background-color: transparent;
+	margin-left: 992px;
+	top: -702px;
+	margin-bottom: -21px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 61px;
+	padding-bottom: 46px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
